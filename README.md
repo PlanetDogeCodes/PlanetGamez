@@ -7,10 +7,13 @@ Responsive Design: Optimized for both desktop/chromebook/mac devices, ensuring a
 Community Feedback: A section for users to suggest new games and provide feedback on existing ones.
 
 **Getting Started**
+
 To get started with PlanetGamez, clone this repository and open the index.html file in your web browser. You can also explore the various game categories and features directly from the website.
 
 **Contributing**
+
 We welcome contributions from the community! If you have suggestions for new games, improvements, or bug fixes, please feel free to submit a pull request or open an issue.
 
 **License**
+
 This project contains many games with different liscenses, therefore we cannot liscense this project as a whole.
