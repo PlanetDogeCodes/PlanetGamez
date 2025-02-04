@@ -8,7 +8,7 @@ Community Feedback: A section for users to suggest new games and provide feedbac
 
 **Getting Started**
 
-To get started with PlanetGamez, clone this repository and open the index.html file in your web browser. You can also explore the various game categories and features directly from the website.
+To get started with PlanetGamez, clone this repository and open the index.html file in your web browser. You can also explore the various game categories and features directly from our website.
 
 **Contributing**
 
@@ -16,4 +16,4 @@ We welcome contributions from the community! If you have suggestions for new gam
 
 **License**
 
-This project contains many games with different liscenses, therefore we cannot liscense this project as a whole.
+This project contains many games with different liscenses from different owners, therefore we cannot liscense this project as a whole.
