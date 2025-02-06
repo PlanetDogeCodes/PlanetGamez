@@ -17,3 +17,6 @@ We welcome contributions from the community! If you have suggestions for new gam
 **License**
 
 This project contains many games with different liscenses from different owners, therefore we cannot liscense this project as a whole.
+
+**What is "The PlanetGamez Team"?**
+The PlanetGamez team is a group of dedicated individuals committed to undermining academic spyware (such as GoGuardian and Securely). Their identities will remain anonymous for legal and privacy reasons.
